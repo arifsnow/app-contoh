@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class PAS_1 {
     public double hitungPersentase(double dataku, double jumlahDataku){
-        return dataku * 100 / jumlahDataku;
+        return dataku * 500 / jumlahDataku;
     }
     public static void main(String[] args){
         PAS_1 hit = new PAS_1();
